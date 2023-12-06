@@ -16,7 +16,7 @@ ARM Cortex-M7 Core'da GUI Tasarımı
 (GUI Design on ARM Cortex-M7 Core)
 * https://lnkd.in/dGAnNkS8
 * https://lnkd.in/dZWD25ad
-* https://lnkd.in/dQgfmBwi
+* [https://lnkd.in/dQgfmBwi](https://github.com/musacufalci/STM32F103C6_Flashing_of_Leds)
 * https://lnkd.in/dC6kre63
 * https://lnkd.in/dyH33bz7
 
