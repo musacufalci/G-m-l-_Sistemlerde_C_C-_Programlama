@@ -1,4 +1,4 @@
-# C/C++ Programming in Embedded Systems
+# Gömülü Sistemlerde C/C++ Programlama Gömülü Sistemlerde C/C++ Programlama (C/C++ Programming in Embedded Systems)
 Gömülü Sistemlerde C/C++ Programlama
 Gömülü Sistemlerde C/C++ Programlama
 (C/C++ Programming in Embedded Systems)
