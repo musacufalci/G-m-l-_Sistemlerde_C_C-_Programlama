@@ -15,7 +15,7 @@ E-mail: proje.muhendislik.danismanlik.hiz@gmail.com
 ARM Cortex-M7 Core'da GUI Tasarımı
 (GUI Design on ARM Cortex-M7 Core)
 * [https://lnkd.in/dGAnNkS8](https://youtu.be/u_DeV4EHyiI)
-* https://lnkd.in/dZWD25ad
+* [https://lnkd.in/dZWD25ad](https://github.com/musacufalci/GUI_Application_on_an_ARM_Cortex-M7/tree/main)
 * [https://lnkd.in/dQgfmBwi](https://github.com/musacufalci/STM32F103C6_Flashing_of_Leds)
 * https://lnkd.in/dC6kre63
 * https://lnkd.in/dyH33bz7
