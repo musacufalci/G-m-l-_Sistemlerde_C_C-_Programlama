@@ -3,8 +3,8 @@ Gömülü Sistemlerde C/C++ Programlama
 Gömülü Sistemlerde C/C++ Programlama
 (C/C++ Programming in Embedded Systems)
 
-Online Kurs 13.12.2023 Çarşamba günü başlayacaktır. 
-Dersler Çarşamba, Perşembe, Cuma, Cumartesi, Pazar günleri 5 gün 18:30 - 21:30 saatleri arasında yapılacaktır. 
+Online Kurs  ...  başlayacaktır. 
+Dersler ... ünleri 5 gün 18:30 - 21:30 saatleri arasında yapılacaktır. 
 Kursun toplam süresi 200 saattir.
 
 Kurs ücreti öğrencilere, bireysel katılımcılara, firmalara, takımlara farklıdır. 
