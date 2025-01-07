@@ -3,13 +3,17 @@ Gömülü Sistemlerde C/C++ Programlama
 Gömülü Sistemlerde C/C++ Programlama
 (C/C++ Programming in Embedded Systems)
 
-Online Kurs  ...  başlayacaktır. 
-Dersler hafta içi günleri 5 gün 19:00 - 22:00 saatleri arasında yapılacaktır. 
-Kursun toplam süresi 200 saattir.
+📅 Online Kurs 20.01.2025 tarihinde başlayacaktır. 
+⏰ Dersler hafta içi günleri 5 gün 19:00 - 22:00 saatleri arasında yapılacaktır. 
+⌛  Kursun toplam süresi 200 saattir.
 
-Kurs ücreti öğrencilere, bireysel katılımcılara, firmalara, takımlara farklıdır. 
-Kurs ücreti bilgisini öğrenmek ve kayıt olmak için ad, soyad, e-posta adresi, telefon numarası bilgilerinizi aşağıdaki e-mail adrese gönderiniz.
-E-mail: proje.muhendislik.danismanlik.hiz@gmail.com
+✅ Bu kurs katılımcıların öncelikle C programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
+
+ℹ️ Kursta C dilinin standart kütüphanesi de ayrıntılı olarak ele alınmaktadır.
+
+✅ Kurs ücreti öğrencilere, bireysel katılımcılara, firmalara, takımlara farklıdır. Kurs ücreti bilgisini öğrenmek ve kayıt olmak için ad, soyad, e-posta adresi, telefon numarası bilgilerinizi aşağıdaki e-mail adrese gönderiniz. E-mail: proje.muhendislik.danismanlik.hiz@gmail.com
+
+👨 Kurs eğitmeni 🔗Musa ÇUFALCI'dır.
 
 Örnek Uygulamalar:
 ARM Cortex-M7 Core'da GUI Tasarımı
