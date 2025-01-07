@@ -1,7 +1,6 @@
-# Gömülü Sistemlerde C/C++ Programlama Gömülü Sistemlerde C/C++ Programlama (C/C++ Programming in Embedded Systems)
-Gömülü Sistemlerde C/C++ Programlama
-Gömülü Sistemlerde C/C++ Programlama
-(C/C++ Programming in Embedded Systems)
+# Gömülü Sistemlerde C/C++ Programlama
+
+Gömülü Sistemlerde C/C++ Programlama (C/C++ Programming in Embedded Systems)
 
 📅 Online Kurs 20.01.2025 tarihinde başlayacaktır. 
 ⏰ Dersler hafta içi günleri 5 gün 19:00 - 22:00 saatleri arasında yapılacaktır. 
