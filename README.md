@@ -4,7 +4,7 @@ Gömülü Sistemlerde C/C++ Programlama
 (C/C++ Programming in Embedded Systems)
 
 Online Kurs  ...  başlayacaktır. 
-Dersler ... ünleri 5 gün 18:30 - 21:30 saatleri arasında yapılacaktır. 
+Dersler hafta içi günleri 5 gün 19:00 - 22:00 saatleri arasında yapılacaktır. 
 Kursun toplam süresi 200 saattir.
 
 Kurs ücreti öğrencilere, bireysel katılımcılara, firmalara, takımlara farklıdır. 
